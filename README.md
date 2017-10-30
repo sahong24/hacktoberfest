@@ -56,10 +56,10 @@ git push origin branch-name
 Add your name to the `CONTRIBUTORS.md` file using the below convention:
 
 ```markdown
-#### Name: [YOUR NAME](GitHub link)
-- Place: City, State, Country
-- Bio: Who are you?
-- GitHub: [GitHub account name](GitHub link)
+#### Name: [AGUNG PRADHIKA NUGRAHA](https://github.com/sahong24)
+- Place: Bandung, Jawa Barat, Indonesia
+- Bio: I'm fine~
+- GitHub: [sahong24](https://github.com/sahong24)
 ```
 
 ### 2. Add a profile page
@@ -67,30 +67,30 @@ Add a `Your_Name.md` file to the `profiles` directory. Use any combination of co
 
 ```markdown
 # Your Name
-
+Agung Pradhika Nugraha
 ### Location
 
-Your City/Country
+Bandung/Indonesia
 
 ### Academics
 
-Your School
+Universitas Widyatama
 
 ### Interests
 
-- Some Things You Like
+- ngoding
 
 ### Development
 
-- Inventor of the My Pillow
+- inmotion
 
 ### Projects
 
-- [My Project](GitHub Link) Short Description
+- [training](https://github.com/sahong24/latihan.git) Short Description
 
 ### Profile Link
 
-[Your Name](GitHub Link)
+[sahong24](https://github.com/sahong24)
 ```
 
 ### 3. Create a `Hello, World!` Script
@@ -99,8 +99,8 @@ Add a `hello_world_yourusername.xx` script to the `scripts` directory in any lan
 ```Javascript
 // LANGUAGE: Javascript
 // ENV: Node.js
-// AUTHOR: Alice Chuang
-// GITHUB: https://github.com/AliceWonderland
+// AUTHOR: AgungPradhikaNugraha
+// GITHUB: https://github.com/sahong24
 
 console.log('Hello, World!');
 ```
